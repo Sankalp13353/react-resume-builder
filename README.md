@@ -29,7 +29,7 @@ A modern and responsive Resume Builder web application built with React that all
 
 ## Live Demo
 
-🔗 Add your Vercel deployment link here
+🔗 https://react-resume-builder-blush.vercel.app/
 
 ## GitHub Repository
 
@@ -43,18 +43,20 @@ While applying for internships and opportunities, I frequently used online resum
 
 Add screenshots of:
 
-* Home Page
-* Resume Builder Interface
-* Resume Preview
-* PDF Download Feature
+<img width="660" height="862" alt="Screenshot 2026-06-17 at 10 28 36 AM" src="https://github.com/user-attachments/assets/0ba8e761-3a45-4db3-b842-d10bcce6f961" />
+
+<img width="890" height="862" alt="Screenshot 2026-06-17 at 10 29 57 AM" src="https://github.com/user-attachments/assets/597f66d7-9462-4463-8d96-78b2e6fff4b7" />
+
+<img width="1512" height="861" alt="Screenshot 2026-06-17 at 10 30 18 AM" src="https://github.com/user-attachments/assets/efc42183-701b-4218-87e7-1786cfb444d9" />
+
 
 ## Author
 
-**Sankalp Sharma**
+**Sankalp**
 
 📧 [your-email@example.com](mailto:your-email@example.com)
 
-💼 LinkedIn: Add your LinkedIn profile link
+💼 LinkedIn: www.linkedin.com/in/sankalp-83304b278
 
 🐙 GitHub: https://github.com/Sankalp13353
 
