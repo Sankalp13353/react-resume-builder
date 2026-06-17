@@ -1,0 +1,102 @@
+.app-container {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+.header {
+  background-color: var(--white);
+  padding: 1rem 2rem;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  position: sticky;
+  top: 0;
+  z-index: 100;
+}
+
+.header-title {
+  color: var(--primary-color);
+  font-weight: 700;
+  font-size: 1.5rem;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.header-actions {
+  display: flex;
+  gap: 1rem;
+}
+
+.main-content {
+  flex: 1;
+  display: flex;
+  padding: 2rem;
+  gap: 2rem;
+  max-width: 1600px;
+  margin: 0 auto;
+  width: 100%;
+}
+
+.form-section {
+  flex: 1;
+  max-width: 600px;
+  height: calc(100vh - 180px);
+  overflow-y: auto;
+  padding-right: 1rem;
+}
+
+/* Custom scrollbar for form section */
+.form-section::-webkit-scrollbar {
+  width: 6px;
+}
+.form-section::-webkit-scrollbar-track {
+  background: var(--background-color);
+}
+.form-section::-webkit-scrollbar-thumb {
+  background-color: var(--border-color);
+  border-radius: 10px;
+}
+
+.preview-section {
+  flex: 1.5;
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  position: sticky;
+  top: 100px;
+}
+
+.footer {
+  background-color: var(--white);
+  padding: 1.5rem;
+  text-align: center;
+  border-top: 1px solid var(--border-color);
+  margin-top: auto;
+}
+
+.footer p {
+  color: var(--text-secondary);
+  font-size: 0.9rem;
+}
+
+@media (max-width: 1024px) {
+  .main-content {
+    flex-direction: column;
+    padding: 1rem;
+  }
+  
+  .form-section {
+    max-width: 100%;
+    height: auto;
+    overflow-y: visible;
+  }
+  
+  .preview-section {
+    position: static;
+    margin-top: 2rem;
+    overflow-x: auto;
+  }
+}
