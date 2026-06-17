@@ -1,16 +1,66 @@
-# React + Vite
+# React Resume Builder
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and responsive Resume Builder web application built with React that allows users to create professional resumes, preview them in real time, and download them as PDF documents.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+* Real-time resume preview
+* Professional resume layout
+* Personal Information section
+* Education section
+* Skills section
+* Projects section
+* Experience section
+* Certifications section
+* Dynamic add/remove functionality
+* Download resume as PDF
+* Mobile-responsive design
+* Clean and modern user interface
 
-## React Compiler
+## Tech Stack
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+* React
+* JavaScript (ES6+)
+* HTML5
+* CSS3
+* Vite
+* jsPDF
+* html2canvas
 
-## Expanding the ESLint configuration
+## Live Demo
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+🔗 Add your Vercel deployment link here
+
+## GitHub Repository
+
+🔗 https://github.com/Sankalp13353/react-resume-builder
+
+## Why I Built This
+
+While applying for internships and opportunities, I frequently used online resume-building tools but found many of them either complicated, limited, or behind paywalls. This project was created to provide a simple, free, and user-friendly solution for generating professional resumes.
+
+## Screenshots
+
+Add screenshots of:
+
+* Home Page
+* Resume Builder Interface
+* Resume Preview
+* PDF Download Feature
+
+## Author
+
+**Sankalp Sharma**
+
+📧 [your-email@example.com](mailto:your-email@example.com)
+
+💼 LinkedIn: Add your LinkedIn profile link
+
+🐙 GitHub: https://github.com/Sankalp13353
+
+## Special Note
+
+This project was built and deployed as part of the Digital Heroes Developer Trial Task.
+
+Built for Digital Heroes:
+https://digitalheroesco.com
