@@ -54,7 +54,7 @@ Add screenshots of:
 
 **Sankalp**
 
-📧 [your-email@example.com](mailto:your-email@example.com)
+📧 sankalp13353@gmail.com
 
 💼 LinkedIn: www.linkedin.com/in/sankalp-83304b278
 
